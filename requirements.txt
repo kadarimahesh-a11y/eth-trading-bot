@@ -1,0 +1,1 @@
+# No external dependencies required as app.py uses standard library only.
